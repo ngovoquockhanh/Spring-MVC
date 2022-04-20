@@ -58,3 +58,13 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+
+
+
+*.bin/
+*.obj/
+*.vs/
+
+bin/
+obj/
+vs
